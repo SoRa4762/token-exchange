@@ -1,0 +1,21 @@
+.card_bg {
+  /* background: radial-gradient(
+    ellipse farthest-corner at right bottom,
+    #ffff00 0%,
+    #fdb931 8%,
+    #8df812 30%,
+    #ffff00 40%,
+    transparent 80%
+  ); */
+  /* radial-gradient(
+      ellipse farthest-corner at left top,
+      #ffff00 0%,
+      #ffffac 8%,
+      #d1d100 25%,
+      #cf9e2a 62.5%,
+      #ffff00 100%
+    ); */
+  background-image: url(/bg-mobile.svg);
+  background-size: cover;
+  /* background-color: #efef0d; */
+}
